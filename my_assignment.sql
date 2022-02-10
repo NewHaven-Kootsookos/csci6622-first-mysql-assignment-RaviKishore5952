@@ -1,2 +1,2 @@
-USE `northwind`;
+USE northwind;
 SELECT * fROM category where CategoryID = 5;
